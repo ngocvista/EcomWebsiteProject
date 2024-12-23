@@ -1,0 +1,325 @@
+[{
+  "_id": {
+    "$oid": "6737874b2f1de16e6c7f39b3"
+  },
+  "categoryName": "Laptop",
+  "description": "Laptop",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-15T17:39:23.517Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2F2dca5c39-1957-461a-9b5a-16b925031110-Laptop.jpg?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673787582f1de16e6c7f39b7"
+  },
+  "categoryName": "Loa & Tai nghe",
+  "description": "Loa & Tai nghe",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-15T17:39:36.304Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2F851154f7-40eb-443e-997c-601ff88d13e9-Loa%20%26%20Tai%20nghe.png?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673787a22f1de16e6c7f39d1"
+  },
+  "categoryName": "Ổ cứng",
+  "description": "Ổ cứng",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-15T17:40:50.837Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2Fdd252c39-9ba9-4e51-8b31-b41ab3f50a73-SSD.jpg?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673787c12f1de16e6c7f39e1"
+  },
+  "categoryName": "Bộ vi xử lý (CPU)",
+  "description": "Bộ vi xử lý (CPU)",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-15T17:41:21.288Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2F9227ec4b-d6d3-44ad-aca3-5492bcad7b31-B%C3%A1%C2%BB%C2%99%20vi%20x%C3%A1%C2%BB%C2%AD%20l%C3%83%C2%BD%20(CPU).jpg?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67333d0e656035c195d42ead"
+  },
+  "categoryName": "Quần Ngắn",
+  "description": "Quần Ngắn",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-12T11:33:34.583Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2Fce0a80d0-6759-4ce7-81fc-51068d0012e1-4.png?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67333d7b656035c195d42ebd"
+  },
+  "categoryName": "Áo Sơ Mi",
+  "description": "Áo Sơ Mi",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-12T11:35:23.986Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2Fefbe33d5-49f0-45ef-a039-25909394a60e-8.png?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67333f1a656035c195d42edd"
+  },
+  "categoryName": "Áo Đá Bóng",
+  "description": "Áo Đá Bóng",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-12T11:42:18.799Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2F7519e8e8-62e1-49c0-b99e-50a21a635ba4-10.png?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67333f4a656035c195d42ee1"
+  },
+  "categoryName": "Quần Dài",
+  "description": "Quần Dài",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-12T11:43:06.898Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2F4f9fdfef-14c3-4b4d-bd00-d90def432537-11.png?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67333f55656035c195d42ee5"
+  },
+  "categoryName": "Áo Ba Lỗ",
+  "description": "Áo Ba Lỗ",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-12T11:43:17.413Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2Fef8e8c9f-2ce8-4328-837a-7f0d6fabf998-12.png?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6737878d2f1de16e6c7f39cd"
+  },
+  "categoryName": "Nguồn máy tính",
+  "description": "Nguồn máy tính",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-15T17:40:29.675Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2F6b7dc426-2c1e-4865-8e80-9fb124b0eb98-Ngu%C3%A1%C2%BB%C2%93n%20m%C3%83%C2%A1y%20t%C3%83%C2%ADnh.jpg?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67333c6d656035c195d42e9b"
+  },
+  "categoryName": "Áo Khoác",
+  "description": "Áo khoác",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-12T11:30:53.415Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2Fb098f250-b662-40bf-b363-b0121f6db0c9-2.png?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67333c9e656035c195d42e9f"
+  },
+  "categoryName": "Áo Thun",
+  "description": "Áo Thun",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-12T11:31:42.119Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2F109bd08d-c779-4aec-92a9-f80d690a4f3e-3.png?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67333d48656035c195d42eb5"
+  },
+  "categoryName": "Đầm",
+  "description": "Đầm",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-12T11:34:32.212Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2F6624891d-68cb-4c87-bf0c-a68c661723a3-6.png?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67333deb656035c195d42ec3"
+  },
+  "categoryName": "Áo Polo",
+  "description": "Áo Polo",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-12T11:37:15.070Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2F1d7000ec-71d0-4756-8073-06f5c6fb30c0-9.png?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673787602f1de16e6c7f39bb"
+  },
+  "categoryName": "Màn hình máy tính",
+  "description": "Màn hình máy tính",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-15T17:39:44.935Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2Fdd73ce17-da4b-4004-9b7b-c3af948ead05-M%C3%83%C2%A0n%20h%C3%83%C2%ACnh%20m%C3%83%C2%A1y%20t%C3%83%C2%ADnh.jpg?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673787672f1de16e6c7f39bf"
+  },
+  "categoryName": "Bàn phím",
+  "description": "Bàn phím",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-15T17:39:51.556Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2F94aba95e-1ace-422f-a2c4-cfe15f988c12-B%C3%83%C2%A0n%20ph%C3%83%C2%ADm.jpg?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673787722f1de16e6c7f39c3"
+  },
+  "categoryName": "Chuột",
+  "description": "Chuột",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-15T17:40:02.641Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2F3c5b88d8-f3e7-495d-a5fb-9276d6f130ac-chuot.jpg?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673787aa2f1de16e6c7f39d5"
+  },
+  "categoryName": "RAM",
+  "description": "RAM",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-15T17:40:58.301Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2F475e20d0-9683-4f75-bb2c-51476e9e5e9e-RAM.jpg?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673787c92f1de16e6c7f39e5"
+  },
+  "categoryName": "Máy tính để bàn",
+  "description": "Máy tính để bàn",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-15T17:41:29.127Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2Fa5d55c19-f7c3-426f-b52c-6a5029fcb59c-pc.jpg?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67333c5b656035c195d42e97"
+  },
+  "categoryName": "Áo Hoodie",
+  "description": "Áo Hoodie",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-12T11:30:35.867Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2Faf6f39dc-f8a5-403f-8207-9fbedd6b1458-1.png?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67333d29656035c195d42eb1"
+  },
+  "categoryName": "Chân Váy",
+  "description": "Chân Váy",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-12T11:34:01.906Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2F4043fae3-70cd-4fce-b513-e51343425ffe-5.png?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67333d5d656035c195d42eb9"
+  },
+  "categoryName": "Đồ Bộ",
+  "description": "Đồ Bộ",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-12T11:34:53.271Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2F55e3ca8f-a01f-4d09-9cd1-1f54d0880369-7.png?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673787832f1de16e6c7f39c9"
+  },
+  "categoryName": "Tản nhiệt",
+  "description": "Tản nhiệt",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-15T17:40:19.599Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2Fc29352f2-cac4-46af-96d7-fbc17d24d306-T%C3%A1%C2%BA%C2%A3n%20nhi%C3%A1%C2%BB%C2%87t.png?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673787b12f1de16e6c7f39d9"
+  },
+  "categoryName": "Mainboard",
+  "description": "Mainboard",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-15T17:41:05.412Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2F8b956d7f-f001-4627-a4be-8ef5e8c507d7-Bo%20m%C3%A1%C2%BA%C2%A1ch%20ch%C3%A1%C2%BB%C2%A7%20(Mainboard).jpg?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673787ba2f1de16e6c7f39dd"
+  },
+  "categoryName": "Card đồ họa (GPU)",
+  "description": "Card đồ họa (GPU)",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-15T17:41:14.160Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2Fa2158491-5957-406d-ad9b-d7d2bb0e8cff-gpu.jpg?alt=media",
+  "__v": 0
+}]

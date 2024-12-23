@@ -16,7 +16,7 @@ const serviceAccount = require(path.join(
 
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
-  storageBucket: "shop-a080e.appspot.com",
+  storageBucket: "shopcompus.appspot.com",
 });
 
 const bucket = admin.storage().bucket();

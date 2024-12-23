@@ -3,7 +3,7 @@ import User from "../models/user.model.js";
 import bcrypt from "bcrypt";
 import { ApiResponse } from "../utils/ApiResponse.js";
 import { uploadFileToFirebase } from "../services/firebase.service.js";
-import nodemailer from 'nodemailer';
+import nodemailer from "nodemailer";
 
 export const getAllUsers = async (req, res) => {
   try {
@@ -12,7 +12,8 @@ export const getAllUsers = async (req, res) => {
     const limit = parseInt(req.query.limit) || 10;
     const skip = (page - 1) * limit;
 
-    const query = {};
+    // Khởi tạo query cơ bản
+    const query = { isDelete: false }; // Chỉ lấy người dùng không bị xóa
 
     // Kiểm tra searchText
     if (searchText) {
@@ -22,12 +23,12 @@ export const getAllUsers = async (req, res) => {
     // Kiểm tra role (nếu có thể có nhiều vai trò)
     if (role) {
       const roles = role.split(","); // Tách các vai trò bằng dấu phẩy
-      query.role = { $in: roles };   // Sử dụng $in để lọc theo nhiều vai trò
+      query.role = { $in: roles }; // Sử dụng $in để lọc theo nhiều vai trò
     }
 
     // Kiểm tra active
     if (active !== undefined) {
-      query.active = active === 'true'; // Chuyển chuỗi 'true' thành Boolean
+      query.active = active === "true"; // Chuyển chuỗi 'true' thành Boolean
     }
 
     // Truy vấn người dùng
@@ -44,21 +45,22 @@ export const getAllUsers = async (req, res) => {
       totalPages,
     };
 
-    res.status(200).json(
-      new ApiResponse(
-        200,
-        paginationResponse,
-        "Lấy danh sách người dùng thành công"
-      )
-    );
+    res
+      .status(200)
+      .json(
+        new ApiResponse(
+          200,
+          paginationResponse,
+          "Lấy danh sách người dùng thành công"
+        )
+      );
   } catch (error) {
     console.error(error);
-    res.status(500).json(new ApiResponse(500, null, "Lỗi khi lấy danh sách người dùng"));
+    res
+      .status(500)
+      .json(new ApiResponse(500, null, "Lỗi khi lấy danh sách người dùng"));
   }
 };
-
-
-
 
 // Lấy người dùng theo ID
 export const getUserById = async (req, res) => {
@@ -192,7 +194,7 @@ export const approveUserAccount = async (req, res) => {
 
     // Cấu hình transporter cho Nodemailer
     const transporter = nodemailer.createTransport({
-      host: process.env.SMTP_HOST || 'smtp.gmail.com',
+      host: process.env.SMTP_HOST || "smtp.gmail.com",
       port: process.env.SMTP_PORT || 587,
       secure: false, // true cho 465, false cho các cổng khác
       auth: {
@@ -205,9 +207,9 @@ export const approveUserAccount = async (req, res) => {
     const mailOptions = {
       from: process.env.EMAIL_USER, // Email người gửi
       to: recipientEmail, // Email người nhận
-      subject: 'Tài khoản của bạn đã được duyệt',
+      subject: "Tài khoản của bạn đã được duyệt",
       html: `
-        <p>Xin chào ${user.fullName || 'bạn'},</p>
+        <p>Xin chào ${user.fullName || "bạn"},</p>
         <p>Chúng tôi vui mừng thông báo rằng tài khoản của bạn đã được duyệt thành công.</p>
         <p>Giờ đây, bạn có thể đăng nhập và sử dụng dịch vụ của chúng tôi.</p>
         <p>Nhấn vào liên kết dưới đây để truy cập trang tài khoản của bạn:</p>
@@ -221,12 +223,20 @@ export const approveUserAccount = async (req, res) => {
     // Gửi email
     await transporter.sendMail(mailOptions);
 
-    res.status(200).json(
-      new ApiResponse(200, null, "Duyệt tài khoản thành công và gửi email thông báo")
-    );
+    res
+      .status(200)
+      .json(
+        new ApiResponse(
+          200,
+          null,
+          "Duyệt tài khoản thành công và gửi email thông báo"
+        )
+      );
   } catch (error) {
     console.error(error);
-    res.status(500).json(new ApiResponse(500, null, "Lỗi khi duyệt tài khoản và gửi email"));
+    res
+      .status(500)
+      .json(new ApiResponse(500, null, "Lỗi khi duyệt tài khoản và gửi email"));
   }
 };
 // Xóa người dùng

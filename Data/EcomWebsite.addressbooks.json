@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "675edcec1fb196b4904e44c5"
+  },
+  "user": {
+    "$oid": "673271c70564dd251e04ac02"
+  },
+  "recipientName": "Ngọc Vũ",
+  "phoneNumber": "091237123",
+  "address": "abcd",
+  "ward": "Phường Phố Huế",
+  "district": "Quận Hai Bà Trưng",
+  "city": "Thành phố Hà Nội",
+  "email": "bebu9x98@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67668eab7568c98cad095786"
+  },
+  "user": {
+    "$oid": "67668a547568c98cad0956e9"
+  },
+  "recipientName": "Ngọc Vũ",
+  "phoneNumber": "1687361166",
+  "address": "Số 8 Tổ 4 Lạc Long Quân",
+  "ward": "Xã Thanh Mai",
+  "district": "Huyện Chợ Mới",
+  "city": "Tỉnh Bắc Kạn",
+  "email": "bebu9x98@gmail.com",
+  "__v": 0
+}]

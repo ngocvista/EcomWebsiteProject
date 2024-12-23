@@ -206,7 +206,7 @@ export const getDailyOrderAndRevenue = async (req, res) => {
 
     res.status(200).json({
       series: [
-        { name: "Số đơn hàng", data: orderCounts },
+        { name: "Số sản phẩm", data: orderCounts },
         { name: "Doanh thu", data: revenues },
       ],
       categories,

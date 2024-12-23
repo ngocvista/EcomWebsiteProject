@@ -1,0 +1,2674 @@
+[{
+  "_id": {
+    "$oid": "67378c04cdaee7292597cb65"
+  },
+  "product": {
+    "$oid": "67378c02cdaee7292597cb5d"
+  },
+  "attributeName": "Màu",
+  "attributeValue": "Prunus Lannesiana",
+  "price": 1290000,
+  "quantity": 7,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378ca9cdaee7292597cb9f"
+  },
+  "product": {
+    "$oid": "67378ca6cdaee7292597cb97"
+  },
+  "attributeName": "Cấu hình",
+  "attributeValue": "I7-1355U 16GB - 512GB",
+  "price": 16990000,
+  "quantity": 7,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378ca9cdaee7292597cba3"
+  },
+  "product": {
+    "$oid": "67378ca6cdaee7292597cb97"
+  },
+  "attributeName": "Cấu hình",
+  "attributeValue": "I3-N305 8GB - 512GB",
+  "price": 8990000,
+  "quantity": 9,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378dc2cdaee7292597cbe8"
+  },
+  "product": {
+    "$oid": "67378dc0cdaee7292597cbde"
+  },
+  "attributeName": "Cấu hình",
+  "attributeValue": "I7-13650HX 16GB - 512GB RTX4060",
+  "price": 36990000,
+  "quantity": 11,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378e09cdaee7292597cc01"
+  },
+  "product": {
+    "$oid": "67378e07cdaee7292597cbf5"
+  },
+  "attributeName": "Cấu hình",
+  "attributeValue": "I5-12450H 16GB - 512GB RTX4050",
+  "price": 21790000,
+  "quantity": 10,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378e09cdaee7292597cc03"
+  },
+  "product": {
+    "$oid": "67378e07cdaee7292597cbf5"
+  },
+  "attributeName": "Cấu hình",
+  "attributeValue": "R3-7320U 8GB - 256GB",
+  "price": 8490000,
+  "quantity": 11,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378e53cdaee7292597cc16"
+  },
+  "product": {
+    "$oid": "67378e50cdaee7292597cc0e"
+  },
+  "attributeName": "Cấu hình",
+  "attributeValue": "I5-12500H 16GB - 512GB RTX 3060",
+  "price": 22990000,
+  "quantity": 6,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378e53cdaee7292597cc18"
+  },
+  "product": {
+    "$oid": "67378e50cdaee7292597cc0e"
+  },
+  "attributeName": "Cấu hình",
+  "attributeValue": "I7-12700H 16GB - 512GB RTX 3050TI",
+  "price": 22990000,
+  "quantity": 11,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378e53cdaee7292597cc1a"
+  },
+  "product": {
+    "$oid": "67378e50cdaee7292597cc0e"
+  },
+  "attributeName": "Cấu hình",
+  "attributeValue": "I5-12450H 16GB - 512GB RTX4050",
+  "price": 21790000,
+  "quantity": 23,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378e89cdaee7292597cc31"
+  },
+  "product": {
+    "$oid": "67378e87cdaee7292597cc27"
+  },
+  "attributeName": "Cấu hình",
+  "attributeValue": "I7-12700H 16GB - 512GB RTX 3050TI",
+  "price": 22990000,
+  "quantity": 9,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378ec4cdaee7292597cc46"
+  },
+  "product": {
+    "$oid": "67378ec1cdaee7292597cc3e"
+  },
+  "attributeName": "Cấu hình",
+  "attributeValue": "I7-1355U 16GB - 512GB 14.0 FHD",
+  "price": 14990000,
+  "quantity": 6,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378ec4cdaee7292597cc4c"
+  },
+  "product": {
+    "$oid": "67378ec1cdaee7292597cc3e"
+  },
+  "attributeName": "Cấu hình",
+  "attributeValue": "Ryzen 7 - 7730U 16GB - 512GB 15.6 FHD",
+  "price": 12990000,
+  "quantity": 9,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378ffccdaee7292597ccc8"
+  },
+  "product": {
+    "$oid": "67378ffacdaee7292597ccbe"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "27 inch",
+  "price": 3100000,
+  "quantity": 12,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67379139cdaee7292597cd61"
+  },
+  "product": {
+    "$oid": "67379136cdaee7292597cd57"
+  },
+  "attributeName": "Màu",
+  "attributeValue": "Xám",
+  "price": 670000,
+  "quantity": 6,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67379139cdaee7292597cd63"
+  },
+  "product": {
+    "$oid": "67379136cdaee7292597cd57"
+  },
+  "attributeName": "Màu",
+  "attributeValue": "Trắng",
+  "price": 620000,
+  "quantity": 7,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67379139cdaee7292597cd65"
+  },
+  "product": {
+    "$oid": "67379136cdaee7292597cd57"
+  },
+  "attributeName": "Màu",
+  "attributeValue": "Hồng",
+  "price": 640000,
+  "quantity": 8,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6737938dcdaee7292597ce2a"
+  },
+  "product": {
+    "$oid": "6737938bcdaee7292597ce24"
+  },
+  "attributeName": "Màu",
+  "attributeValue": "Trắng",
+  "price": 1990000,
+  "quantity": 8,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6737938dcdaee7292597ce2c"
+  },
+  "product": {
+    "$oid": "6737938bcdaee7292597ce24"
+  },
+  "attributeName": "Màu",
+  "attributeValue": "Đen",
+  "price": 2190000,
+  "quantity": 9,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67335e6c656035c195d4305f"
+  },
+  "product": {
+    "$oid": "67335e68656035c195d43055"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 990000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67335bb2656035c195d43027"
+  },
+  "product": {
+    "$oid": "67335bb0656035c195d4301b"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 1790000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67335b3a656035c195d4300c"
+  },
+  "product": {
+    "$oid": "67335b38656035c195d43004"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 2490000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67335a61656035c195d42fb5"
+  },
+  "product": {
+    "$oid": "67335a5e656035c195d42fab"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 2429000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67335aa6656035c195d42fcc"
+  },
+  "product": {
+    "$oid": "67335aa4656035c195d42fc4"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 1999000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67335827656035c195d42f4b"
+  },
+  "product": {
+    "$oid": "67335823656035c195d42f41"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 2199000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67335827656035c195d42f4f"
+  },
+  "product": {
+    "$oid": "67335823656035c195d42f41"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 2199000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6733585e656035c195d42f62"
+  },
+  "product": {
+    "$oid": "6733585b656035c195d42f5a"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 1895000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67335f28656035c195d43158"
+  },
+  "product": {
+    "$oid": "67335f26656035c195d43150"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 950000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67335f65656035c195d43171"
+  },
+  "product": {
+    "$oid": "67335f62656035c195d43167"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 690000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673357e9656035c195d42f36"
+  },
+  "product": {
+    "$oid": "673357e6656035c195d42f2a"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 2199000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673361d8656035c195d43254"
+  },
+  "product": {
+    "$oid": "673361d6656035c195d4324c"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 600000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673361d9656035c195d43256"
+  },
+  "product": {
+    "$oid": "673361d6656035c195d4324c"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 600000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6733620d656035c195d4326d"
+  },
+  "product": {
+    "$oid": "67336209656035c195d43263"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 1250000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67336247656035c195d43284"
+  },
+  "product": {
+    "$oid": "67336244656035c195d4327c"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 500000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6733634e656035c195d4329f"
+  },
+  "product": {
+    "$oid": "6733634c656035c195d43297"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 1265000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67336386656035c195d432b4"
+  },
+  "product": {
+    "$oid": "67336385656035c195d432ae"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 1795000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67336386656035c195d432b8"
+  },
+  "product": {
+    "$oid": "67336385656035c195d432ae"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 1795000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67336400656035c195d432e2"
+  },
+  "product": {
+    "$oid": "673363fe656035c195d432da"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 1240000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67336575656035c195d432ff"
+  },
+  "product": {
+    "$oid": "67336573656035c195d432f5"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 2000000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673365c3656035c195d43316"
+  },
+  "product": {
+    "$oid": "673365c2656035c195d4330c"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 1200000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67336644656035c195d4332f"
+  },
+  "product": {
+    "$oid": "67336642656035c195d43323"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 1500000,
+  "quantity": 4,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6733680b656035c195d433b0"
+  },
+  "product": {
+    "$oid": "67336809656035c195d433a4"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 1500000,
+  "quantity": 3,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67336844656035c195d433c3"
+  },
+  "product": {
+    "$oid": "67336842656035c195d433bb"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 1590000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67336844656035c195d433c5"
+  },
+  "product": {
+    "$oid": "67336842656035c195d433bb"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 1590000,
+  "quantity": 6,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6733687b656035c195d433dc"
+  },
+  "product": {
+    "$oid": "67336879656035c195d433d2"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 1090000,
+  "quantity": 3,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67336a29656035c195d43405"
+  },
+  "product": {
+    "$oid": "67336a27656035c195d433f9"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "A/XL",
+  "price": 850000,
+  "quantity": 7,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67336bc7656035c195d43433"
+  },
+  "product": {
+    "$oid": "67336bc5656035c195d43427"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 1130000,
+  "quantity": 8,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67337c40656035c195d43446"
+  },
+  "product": {
+    "$oid": "67337c3d656035c195d4343e"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 1179000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67337cee656035c195d4346c"
+  },
+  "product": {
+    "$oid": "67337cec656035c195d43462"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 1495000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67337cee656035c195d4346e"
+  },
+  "product": {
+    "$oid": "67337cec656035c195d43462"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 1495000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67337eb4656035c195d434aa"
+  },
+  "product": {
+    "$oid": "67337eb2656035c195d434a0"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 2640000,
+  "quantity": 4,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67337ee1656035c195d434c1"
+  },
+  "product": {
+    "$oid": "67337edf656035c195d434b7"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 4140000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67337f0b656035c195d434d6"
+  },
+  "product": {
+    "$oid": "67337f09656035c195d434ce"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 2200000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67337fe7656035c195d434f1"
+  },
+  "product": {
+    "$oid": "67337fe4656035c195d434e5"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 1130000,
+  "quantity": 6,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6733800f656035c195d43506"
+  },
+  "product": {
+    "$oid": "6733800c656035c195d434fc"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 1629000,
+  "quantity": 7,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67338090656035c195d43529"
+  },
+  "product": {
+    "$oid": "6733808d656035c195d4351f"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 750000,
+  "quantity": 9,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67336710656035c195d4338d"
+  },
+  "product": {
+    "$oid": "6733670d656035c195d43381"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 2740000,
+  "quantity": 3,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378ceacdaee7292597cbb8"
+  },
+  "product": {
+    "$oid": "67378ce7cdaee7292597cbae"
+  },
+  "attributeName": "Cấu hình",
+  "attributeValue": "I7-12650H 16GB - 512GB RTX 2050",
+  "price": 17790000,
+  "quantity": 13,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378d5acdaee7292597cbcf"
+  },
+  "product": {
+    "$oid": "67378d58cdaee7292597cbc5"
+  },
+  "attributeName": "Cấu hình",
+  "attributeValue": "I7-12650H 16GB - 512GB RTX 2050",
+  "price": 17790000,
+  "quantity": 12,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378dc2cdaee7292597cbe6"
+  },
+  "product": {
+    "$oid": "67378dc0cdaee7292597cbde"
+  },
+  "attributeName": "Cấu hình",
+  "attributeValue": "I9-14900HX 32GB - 1TB RTX4060",
+  "price": 45990000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378e53cdaee7292597cc1c"
+  },
+  "product": {
+    "$oid": "67378e50cdaee7292597cc0e"
+  },
+  "attributeName": "Cấu hình",
+  "attributeValue": "I5-12500H 8GB - 512GB RTX3050",
+  "price": 18990000,
+  "quantity": 1,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378e89cdaee7292597cc33"
+  },
+  "product": {
+    "$oid": "67378e87cdaee7292597cc27"
+  },
+  "attributeName": "Cấu hình",
+  "attributeValue": "I5-12450H 16GB - 512GB RTX4050",
+  "price": 21790000,
+  "quantity": 11,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378ec4cdaee7292597cc48"
+  },
+  "product": {
+    "$oid": "67378ec1cdaee7292597cc3e"
+  },
+  "attributeName": "Cấu hình",
+  "attributeValue": "I7-1255U 16GB - 512GB 15.6 FHD",
+  "price": 14990000,
+  "quantity": 7,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378f92cdaee7292597cc9f"
+  },
+  "product": {
+    "$oid": "67378f8fcdaee7292597cc95"
+  },
+  "attributeName": "Màu",
+  "attributeValue": "Trắng",
+  "price": 1490000,
+  "quantity": 12,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67335bb2656035c195d43023"
+  },
+  "product": {
+    "$oid": "67335bb0656035c195d4301b"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 1790000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67335b3a656035c195d4300e"
+  },
+  "product": {
+    "$oid": "67335b38656035c195d43004"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 2490000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67335b3a656035c195d43010"
+  },
+  "product": {
+    "$oid": "67335b38656035c195d43004"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 2490000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67335ae9656035c195d42ff7"
+  },
+  "product": {
+    "$oid": "67335ae7656035c195d42fed"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 2495000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67335aa6656035c195d42fd0"
+  },
+  "product": {
+    "$oid": "67335aa4656035c195d42fc4"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 1999000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673358a1656035c195d42f79"
+  },
+  "product": {
+    "$oid": "6733589e656035c195d42f71"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 1800000,
+  "quantity": 15,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673358a1656035c195d42f7b"
+  },
+  "product": {
+    "$oid": "6733589e656035c195d42f71"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 1800000,
+  "quantity": 15,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67335f28656035c195d4315c"
+  },
+  "product": {
+    "$oid": "67335f26656035c195d43150"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 950000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67335f94656035c195d43186"
+  },
+  "product": {
+    "$oid": "67335f91656035c195d4317e"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 700000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67336247656035c195d43288"
+  },
+  "product": {
+    "$oid": "67336244656035c195d4327c"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 500000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673363c5656035c195d432cf"
+  },
+  "product": {
+    "$oid": "673363c3656035c195d432c3"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 1200000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67336400656035c195d432e6"
+  },
+  "product": {
+    "$oid": "673363fe656035c195d432da"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 1240000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673365c3656035c195d43314"
+  },
+  "product": {
+    "$oid": "673365c2656035c195d4330c"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 1200000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67336644656035c195d4332b"
+  },
+  "product": {
+    "$oid": "67336642656035c195d43323"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 1500000,
+  "quantity": 4,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67336644656035c195d4332d"
+  },
+  "product": {
+    "$oid": "67336642656035c195d43323"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 1500000,
+  "quantity": 4,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6733669b656035c195d43374"
+  },
+  "product": {
+    "$oid": "67336698656035c195d4336a"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 1600000,
+  "quantity": 4,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6733680b656035c195d433ae"
+  },
+  "product": {
+    "$oid": "67336809656035c195d433a4"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 1500000,
+  "quantity": 3,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67336844656035c195d433c7"
+  },
+  "product": {
+    "$oid": "67336842656035c195d433bb"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 1590000,
+  "quantity": 6,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6733687b656035c195d433de"
+  },
+  "product": {
+    "$oid": "67336879656035c195d433d2"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 1090000,
+  "quantity": 4,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67336a29656035c195d43403"
+  },
+  "product": {
+    "$oid": "67336a27656035c195d433f9"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "A/L",
+  "price": 850000,
+  "quantity": 6,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67336a60656035c195d4341c"
+  },
+  "product": {
+    "$oid": "67336a5c656035c195d43410"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 1495000,
+  "quantity": 7,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67336bc7656035c195d43431"
+  },
+  "product": {
+    "$oid": "67336bc5656035c195d43427"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 1130000,
+  "quantity": 7,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67337d33656035c195d43483"
+  },
+  "product": {
+    "$oid": "67337d31656035c195d43479"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 2249000,
+  "quantity": 6,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67337ee1656035c195d434bf"
+  },
+  "product": {
+    "$oid": "67337edf656035c195d434b7"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 4140000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67337ee1656035c195d434c3"
+  },
+  "product": {
+    "$oid": "67337edf656035c195d434b7"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 4140000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67337fe6656035c195d434ed"
+  },
+  "product": {
+    "$oid": "67337fe4656035c195d434e5"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 1130000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67338090656035c195d43527"
+  },
+  "product": {
+    "$oid": "6733808d656035c195d4351f"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 750000,
+  "quantity": 7,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67338090656035c195d4352b"
+  },
+  "product": {
+    "$oid": "6733808d656035c195d4351f"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 750000,
+  "quantity": 11,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378c3dcdaee7292597cb7c"
+  },
+  "product": {
+    "$oid": "67378c3bcdaee7292597cb72"
+  },
+  "attributeName": "Switch",
+  "attributeValue": "Yellow Switch",
+  "price": 1390000,
+  "quantity": 15,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378a732f1de16e6c7f3a5f"
+  },
+  "product": {
+    "$oid": "67378a712f1de16e6c7f3a59"
+  },
+  "attributeName": "Switch",
+  "attributeValue": "Blue Switch",
+  "price": 1799000,
+  "quantity": 12,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378a732f1de16e6c7f3a61"
+  },
+  "product": {
+    "$oid": "67378a712f1de16e6c7f3a59"
+  },
+  "attributeName": "Switch",
+  "attributeValue": "Yellow Switch",
+  "price": 1890000,
+  "quantity": 12,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378bcfcdaee7292597cb50"
+  },
+  "product": {
+    "$oid": "67378bcdcdaee7292597cb48"
+  },
+  "attributeName": "Switch",
+  "attributeValue": "Yellow Switch",
+  "price": 2599000,
+  "quantity": 12,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378ca9cdaee7292597cba1"
+  },
+  "product": {
+    "$oid": "67378ca6cdaee7292597cb97"
+  },
+  "attributeName": "Cấu hình",
+  "attributeValue": "I5-1335U 16GB - 512GB",
+  "price": 14990000,
+  "quantity": 8,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378ceacdaee7292597cbb6"
+  },
+  "product": {
+    "$oid": "67378ce7cdaee7292597cbae"
+  },
+  "attributeName": "Cấu hình",
+  "attributeValue": "I5-12450H 16GB - 512GB RTX 3050",
+  "price": 18490000,
+  "quantity": 9,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378d5acdaee7292597cbcd"
+  },
+  "product": {
+    "$oid": "67378d58cdaee7292597cbc5"
+  },
+  "attributeName": "Cấu hình",
+  "attributeValue": "I5-12450H 16GB - 512GB RTX 3050",
+  "price": 18490000,
+  "quantity": 11,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378d5acdaee7292597cbd1"
+  },
+  "product": {
+    "$oid": "67378d58cdaee7292597cbc5"
+  },
+  "attributeName": "Cấu hình",
+  "attributeValue": "I5-12450H 8GB - 512GB RTX 2050",
+  "price": 15690000,
+  "quantity": 12,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378d5acdaee7292597cbd3"
+  },
+  "product": {
+    "$oid": "67378d58cdaee7292597cbc5"
+  },
+  "attributeName": "Cấu hình",
+  "attributeValue": "I5-12450H 16GB - 512GB INTEL UHD",
+  "price": 14690000,
+  "quantity": 3,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378e09cdaee7292597cbfd"
+  },
+  "product": {
+    "$oid": "67378e07cdaee7292597cbf5"
+  },
+  "attributeName": "Cấu hình",
+  "attributeValue": "R7-7730U 16GB - 512GB",
+  "price": 14690000,
+  "quantity": 8,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378e09cdaee7292597cbff"
+  },
+  "product": {
+    "$oid": "67378e07cdaee7292597cbf5"
+  },
+  "attributeName": "Cấu hình",
+  "attributeValue": "R5-7520U 16GB - 512GB",
+  "price": 12490000,
+  "quantity": 9,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378e89cdaee7292597cc2f"
+  },
+  "product": {
+    "$oid": "67378e87cdaee7292597cc27"
+  },
+  "attributeName": "Cấu hình",
+  "attributeValue": "I5-12500H 16GB - 512GB RTX 3060",
+  "price": 22990000,
+  "quantity": 8,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673790f7cdaee7292597cd4a"
+  },
+  "product": {
+    "$oid": "673790f4cdaee7292597cd40"
+  },
+  "attributeName": "Màu",
+  "attributeValue": "Tím",
+  "price": 910000,
+  "quantity": 4,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67335e6c656035c195d43061"
+  },
+  "product": {
+    "$oid": "67335e68656035c195d43055"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 990000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67335bb2656035c195d43025"
+  },
+  "product": {
+    "$oid": "67335bb0656035c195d4301b"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 1790000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67335ae9656035c195d42ff5"
+  },
+  "product": {
+    "$oid": "67335ae7656035c195d42fed"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 2495000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67335ae9656035c195d42ff9"
+  },
+  "product": {
+    "$oid": "67335ae7656035c195d42fed"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 2495000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67335a61656035c195d42fb7"
+  },
+  "product": {
+    "$oid": "67335a5e656035c195d42fab"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 2429000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673358a1656035c195d42f7d"
+  },
+  "product": {
+    "$oid": "6733589e656035c195d42f71"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 1800000,
+  "quantity": 15,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67335f28656035c195d4315a"
+  },
+  "product": {
+    "$oid": "67335f26656035c195d43150"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 950000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67335f65656035c195d4316f"
+  },
+  "product": {
+    "$oid": "67335f62656035c195d43167"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 690000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67335f65656035c195d43173"
+  },
+  "product": {
+    "$oid": "67335f62656035c195d43167"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 690000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67335f94656035c195d4318a"
+  },
+  "product": {
+    "$oid": "67335f91656035c195d4317e"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 700000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67335fce656035c195d4319d"
+  },
+  "product": {
+    "$oid": "67335fcb656035c195d43195"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 800000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67335fce656035c195d4319f"
+  },
+  "product": {
+    "$oid": "67335fcb656035c195d43195"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 800000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67336001656035c195d431b4"
+  },
+  "product": {
+    "$oid": "67335ffe656035c195d431ac"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 1195000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67336001656035c195d431b8"
+  },
+  "product": {
+    "$oid": "67335ffe656035c195d431ac"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 1195000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67336169656035c195d431e3"
+  },
+  "product": {
+    "$oid": "67336164656035c195d431db"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 1795000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67335c1a656035c195d4303a"
+  },
+  "product": {
+    "$oid": "67335c18656035c195d43032"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 2400000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67335c1a656035c195d4303e"
+  },
+  "product": {
+    "$oid": "67335c18656035c195d43032"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 2400000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6733620d656035c195d43271"
+  },
+  "product": {
+    "$oid": "67336209656035c195d43263"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 1250000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67336247656035c195d43286"
+  },
+  "product": {
+    "$oid": "67336244656035c195d4327c"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 500000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6733634e656035c195d432a1"
+  },
+  "product": {
+    "$oid": "6733634c656035c195d43297"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 1265000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67336386656035c195d432b6"
+  },
+  "product": {
+    "$oid": "67336385656035c195d432ae"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 1795000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673363c5656035c195d432cd"
+  },
+  "product": {
+    "$oid": "673363c3656035c195d432c3"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 1200000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67336400656035c195d432e4"
+  },
+  "product": {
+    "$oid": "673363fe656035c195d432da"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 1240000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67336575656035c195d43301"
+  },
+  "product": {
+    "$oid": "67336573656035c195d432f5"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 2000000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6733669b656035c195d43372"
+  },
+  "product": {
+    "$oid": "67336698656035c195d4336a"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 1600000,
+  "quantity": 4,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6733669b656035c195d43376"
+  },
+  "product": {
+    "$oid": "67336698656035c195d4336a"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 1600000,
+  "quantity": 4,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6733680b656035c195d433ac"
+  },
+  "product": {
+    "$oid": "67336809656035c195d433a4"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 1500000,
+  "quantity": 3,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67336a29656035c195d43401"
+  },
+  "product": {
+    "$oid": "67336a27656035c195d433f9"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "A/M",
+  "price": 850000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67336bc7656035c195d4342f"
+  },
+  "product": {
+    "$oid": "67336bc5656035c195d43427"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 1130000,
+  "quantity": 6,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67337c40656035c195d4344a"
+  },
+  "product": {
+    "$oid": "67337c3d656035c195d4343e"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 1179000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67337cee656035c195d4346a"
+  },
+  "product": {
+    "$oid": "67337cec656035c195d43462"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 1495000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67337eb4656035c195d434a8"
+  },
+  "product": {
+    "$oid": "67337eb2656035c195d434a0"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 2640000,
+  "quantity": 4,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67337eb4656035c195d434ac"
+  },
+  "product": {
+    "$oid": "67337eb2656035c195d434a0"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 2640000,
+  "quantity": 4,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67337fe6656035c195d434ef"
+  },
+  "product": {
+    "$oid": "67337fe4656035c195d434e5"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 1130000,
+  "quantity": 6,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6733800f656035c195d43504"
+  },
+  "product": {
+    "$oid": "6733800c656035c195d434fc"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 1629000,
+  "quantity": 6,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378bcfcdaee7292597cb52"
+  },
+  "product": {
+    "$oid": "67378bcdcdaee7292597cb48"
+  },
+  "attributeName": "Switch",
+  "attributeValue": "Yellow Switch",
+  "price": 2599000,
+  "quantity": 12,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378c04cdaee7292597cb67"
+  },
+  "product": {
+    "$oid": "67378c02cdaee7292597cb5d"
+  },
+  "attributeName": "Màu",
+  "attributeValue": "Black & Pink",
+  "price": 1290000,
+  "quantity": 7,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378ceacdaee7292597cbba"
+  },
+  "product": {
+    "$oid": "67378ce7cdaee7292597cbae"
+  },
+  "attributeName": "Cấu hình",
+  "attributeValue": "I5-12450H 8GB - 512GB RTX 2050",
+  "price": 15690000,
+  "quantity": 15,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378dc2cdaee7292597cbea"
+  },
+  "product": {
+    "$oid": "67378dc0cdaee7292597cbde"
+  },
+  "attributeName": "Cấu hình",
+  "attributeValue": "I7-13650HX 16GB - 512GB RTX4050",
+  "price": 35990000,
+  "quantity": 8,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378ec4cdaee7292597cc4a"
+  },
+  "product": {
+    "$oid": "67378ec1cdaee7292597cc3e"
+  },
+  "attributeName": "Cấu hình",
+  "attributeValue": "I7-1255U 8GB - 512GB 14.0 FHD",
+  "price": 14990000,
+  "quantity": 8,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378ec4cdaee7292597cc4e"
+  },
+  "product": {
+    "$oid": "67378ec1cdaee7292597cc3e"
+  },
+  "attributeName": "Cấu hình",
+  "attributeValue": "I5-1335U 8GB - 512GB 14.0 FHD",
+  "price": 11990000,
+  "quantity": 11,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378f3ecdaee7292597cc75"
+  },
+  "product": {
+    "$oid": "67378f3ccdaee7292597cc6d"
+  },
+  "attributeName": "Màu",
+  "attributeValue": "Hồng",
+  "price": 1990000,
+  "quantity": 6,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378f3ecdaee7292597cc77"
+  },
+  "product": {
+    "$oid": "67378f3ccdaee7292597cc6d"
+  },
+  "attributeName": "Màu",
+  "attributeValue": "Trắng",
+  "price": 1990000,
+  "quantity": 7,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378f3ecdaee7292597cc79"
+  },
+  "product": {
+    "$oid": "67378f3ccdaee7292597cc6d"
+  },
+  "attributeName": "Màu",
+  "attributeValue": "Đen",
+  "price": 1990000,
+  "quantity": 8,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378f91cdaee7292597cc9d"
+  },
+  "product": {
+    "$oid": "67378f8fcdaee7292597cc95"
+  },
+  "attributeName": "Màu",
+  "attributeValue": "Đen",
+  "price": 1490000,
+  "quantity": 11,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378ffccdaee7292597ccc6"
+  },
+  "product": {
+    "$oid": "67378ffacdaee7292597ccbe"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "24 inch",
+  "price": 2500000,
+  "quantity": 11,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673790f6cdaee7292597cd48"
+  },
+  "product": {
+    "$oid": "673790f4cdaee7292597cd40"
+  },
+  "attributeName": "Màu",
+  "attributeValue": "Hồng",
+  "price": 850000,
+  "quantity": 12,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673790f7cdaee7292597cd4c"
+  },
+  "product": {
+    "$oid": "673790f4cdaee7292597cd40"
+  },
+  "attributeName": "Màu",
+  "attributeValue": "Vàng",
+  "price": 890000,
+  "quantity": 6,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67379205cdaee7292597cdaa"
+  },
+  "product": {
+    "$oid": "67379203cdaee7292597cda2"
+  },
+  "attributeName": "Màu",
+  "attributeValue": "Trắng",
+  "price": 10900000,
+  "quantity": 7,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67379205cdaee7292597cdac"
+  },
+  "product": {
+    "$oid": "67379203cdaee7292597cda2"
+  },
+  "attributeName": "Màu",
+  "attributeValue": "Đen",
+  "price": 9800000,
+  "quantity": 6,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67335e6c656035c195d4305d"
+  },
+  "product": {
+    "$oid": "67335e68656035c195d43055"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 990000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67335a61656035c195d42fb9"
+  },
+  "product": {
+    "$oid": "67335a5e656035c195d42fab"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 2429000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67335aa6656035c195d42fce"
+  },
+  "product": {
+    "$oid": "67335aa4656035c195d42fc4"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 1999000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67335827656035c195d42f4d"
+  },
+  "product": {
+    "$oid": "67335823656035c195d42f41"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 2199000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673356fd656035c195d42f0b"
+  },
+  "product": {
+    "$oid": "673356fa656035c195d42f03"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 1995000,
+  "quantity": 10,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673356fd656035c195d42f0d"
+  },
+  "product": {
+    "$oid": "673356fa656035c195d42f03"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 1995000,
+  "quantity": 10,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673356fd656035c195d42f0f"
+  },
+  "product": {
+    "$oid": "673356fa656035c195d42f03"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 1995000,
+  "quantity": 10,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6733585e656035c195d42f64"
+  },
+  "product": {
+    "$oid": "6733585b656035c195d42f5a"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 1895000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6733585e656035c195d42f66"
+  },
+  "product": {
+    "$oid": "6733585b656035c195d42f5a"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 1895000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67335f94656035c195d43188"
+  },
+  "product": {
+    "$oid": "67335f91656035c195d4317e"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 700000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67335fce656035c195d431a1"
+  },
+  "product": {
+    "$oid": "67335fcb656035c195d43195"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 800000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67336001656035c195d431b6"
+  },
+  "product": {
+    "$oid": "67335ffe656035c195d431ac"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 1195000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67336169656035c195d431e5"
+  },
+  "product": {
+    "$oid": "67336164656035c195d431db"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 1795000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67335c1a656035c195d4303c"
+  },
+  "product": {
+    "$oid": "67335c18656035c195d43032"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 2400000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673357e9656035c195d42f32"
+  },
+  "product": {
+    "$oid": "673357e6656035c195d42f2a"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 2199000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673357e9656035c195d42f34"
+  },
+  "product": {
+    "$oid": "673357e6656035c195d42f2a"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 2199000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673361d9656035c195d43258"
+  },
+  "product": {
+    "$oid": "673361d6656035c195d4324c"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 600000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6733620d656035c195d4326f"
+  },
+  "product": {
+    "$oid": "67336209656035c195d43263"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 1250000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6733634e656035c195d432a3"
+  },
+  "product": {
+    "$oid": "6733634c656035c195d43297"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 1265000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673363c5656035c195d432cb"
+  },
+  "product": {
+    "$oid": "673363c3656035c195d432c3"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 1200000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67336575656035c195d432fd"
+  },
+  "product": {
+    "$oid": "67336573656035c195d432f5"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 2000000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673365c3656035c195d43318"
+  },
+  "product": {
+    "$oid": "673365c2656035c195d4330c"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 1200000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6733687b656035c195d433da"
+  },
+  "product": {
+    "$oid": "67336879656035c195d433d2"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 1090000,
+  "quantity": 2,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67336a60656035c195d43418"
+  },
+  "product": {
+    "$oid": "67336a5c656035c195d43410"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 1495000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67336a60656035c195d4341a"
+  },
+  "product": {
+    "$oid": "67336a5c656035c195d43410"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 1495000,
+  "quantity": 6,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67337c40656035c195d43448"
+  },
+  "product": {
+    "$oid": "67337c3d656035c195d4343e"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 1179000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67337d33656035c195d43481"
+  },
+  "product": {
+    "$oid": "67337d31656035c195d43479"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 2249000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67337d33656035c195d43485"
+  },
+  "product": {
+    "$oid": "67337d31656035c195d43479"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 2249000,
+  "quantity": 6,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67337f0b656035c195d434d8"
+  },
+  "product": {
+    "$oid": "67337f09656035c195d434ce"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 2200000,
+  "quantity": 7,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67337f0b656035c195d434da"
+  },
+  "product": {
+    "$oid": "67337f09656035c195d434ce"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 2200000,
+  "quantity": 8,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6733800f656035c195d43508"
+  },
+  "product": {
+    "$oid": "6733800c656035c195d434fc"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 1629000,
+  "quantity": 8,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67336710656035c195d43389"
+  },
+  "product": {
+    "$oid": "6733670d656035c195d43381"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 2740000,
+  "quantity": 3,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67336710656035c195d4338b"
+  },
+  "product": {
+    "$oid": "6733670d656035c195d43381"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 2740000,
+  "quantity": 3,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378c3dcdaee7292597cb7a"
+  },
+  "product": {
+    "$oid": "67378c3bcdaee7292597cb72"
+  },
+  "attributeName": "Switch",
+  "attributeValue": "Blue Switch",
+  "price": 1490000,
+  "quantity": 9,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67335938656035c195d42f90"
+  },
+  "product": {
+    "$oid": "67335936656035c195d42f88"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "M",
+  "price": 2400000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67335938656035c195d42f92"
+  },
+  "product": {
+    "$oid": "67335936656035c195d42f88"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "L",
+  "price": 2400000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67335938656035c195d42f94"
+  },
+  "product": {
+    "$oid": "67335936656035c195d42f88"
+  },
+  "attributeName": "Kích thước",
+  "attributeValue": "XL",
+  "price": 2400000,
+  "quantity": 5,
+  "isDelete": false,
+  "__v": 0
+}]

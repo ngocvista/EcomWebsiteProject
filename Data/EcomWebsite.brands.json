@@ -1,0 +1,273 @@
+[{
+  "_id": {
+    "$oid": "673787e32f1de16e6c7f39ef"
+  },
+  "brandName": "Nvidia",
+  "description": "Nvidia",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-15T17:41:55.537Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2F5795b77e-de45-410f-8290-53d5fd8fe13a-nvidia.png?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6737880c2f1de16e6c7f39f3"
+  },
+  "brandName": "SteelSeries",
+  "description": "SteelSeries",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-15T17:42:36.835Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2F5ed1d2bd-4792-4879-85b9-f4765aa44388-SteelSeries.png?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673788432f1de16e6c7f3a11"
+  },
+  "brandName": "Acer",
+  "description": "Acer",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-15T17:43:31.507Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2F890aee75-f2c9-432d-88c6-20ee1f8142fc-acer.jpg?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67333ad6656035c195d42e57"
+  },
+  "brandName": "Columbia",
+  "description": "Columbia",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-12T11:24:06.551Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2Fd0414cfa-a211-4479-a5e0-34369ed3bd66-2.png?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67333b1a656035c195d42e67"
+  },
+  "brandName": "Puma",
+  "description": "Puma",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-12T11:25:14.516Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2F4ae6385c-3a73-4165-aaa4-38f71f1eaad5-7.png?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673787d82f1de16e6c7f39eb"
+  },
+  "brandName": "Intel",
+  "description": "Intel",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-15T17:41:44.602Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2Facbbbefb-0371-4d33-8949-7b2f303dc19f-intel.png?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673788192f1de16e6c7f39fb"
+  },
+  "brandName": "Razer",
+  "description": "Razer",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-15T17:42:49.260Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2F4f822c14-1903-43f4-8238-3f71217ea339-Razer.png?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673788202f1de16e6c7f39ff"
+  },
+  "brandName": "MSI",
+  "description": "MSI",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-15T17:42:56.884Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2F66878b9b-5068-4636-9ef6-d2099eec7d25-msi.png?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67333ae0656035c195d42e5b"
+  },
+  "brandName": "Fila",
+  "description": "Fila",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-12T11:24:16.746Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2F523d0604-d489-4847-801f-8928c8fba243-4.png?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67333b2a656035c195d42e6f"
+  },
+  "brandName": "Skechers",
+  "description": "Skechers",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-12T11:25:30.848Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2Fcdb3a252-c79e-4494-aae7-f3e40b3027dc-8.png?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673788132f1de16e6c7f39f7"
+  },
+  "brandName": "Corsair",
+  "description": "Corsair",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-15T17:42:43.221Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2F4d67b059-1147-4341-b62d-a15a51c3b556-Corsair.png?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673788292f1de16e6c7f3a05"
+  },
+  "brandName": "ROG",
+  "description": "ROG",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-15T17:43:05.964Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2F0d6c6cd4-8d39-40a9-9bff-9275d9b58aec-rog.png?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673788362f1de16e6c7f3a09"
+  },
+  "brandName": "Asus",
+  "description": "Asus",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-15T17:43:18.758Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2Fdef111e4-6695-4e49-99af-809efedda7c9-images.png?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67327869021cded19a6b20d8"
+  },
+  "brandName": "Nike",
+  "description": "Nike",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-11T21:34:33.578Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2Fd33e3477-c0cb-4882-80f3-c46f3b8c6021-6.png?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673278d0021cded19a6b20e8"
+  },
+  "brandName": "Li-ning",
+  "description": "Li-ning",
+  "isDelete": true,
+  "createdAt": {
+    "$date": "2024-11-11T21:36:16.502Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2Fca04ae99-6447-44b5-b7ee-132b717e31ca-a42f0a9814f8edf7ea353a0d8d0ccedf.jpg?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67333a71656035c195d42e4d"
+  },
+  "brandName": "Adidas",
+  "description": "Adidas",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-12T11:22:25.021Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2F984d2310-0541-4093-aaeb-efd7bcd85d97-1.png?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67333aee656035c195d42e5f"
+  },
+  "brandName": "New Balance",
+  "description": "New Balance",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-12T11:24:30.810Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2Fc9c512a4-211a-4f25-97a4-bf054e306720-5.png?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67333afe656035c195d42e63"
+  },
+  "brandName": "Under Armour",
+  "description": "Under Armour",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-12T11:24:46.731Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2F2b99b733-fd51-4684-a244-93b8eb6d779a-9.png?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6737883d2f1de16e6c7f3a0d"
+  },
+  "brandName": "Logitech",
+  "description": "Logitech",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-15T17:43:25.280Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2Fa0ba0e6b-86c3-4976-b9ab-ceacea3b8bf6-725136dd7ce363094db6ba5260531838.jpg?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673788542f1de16e6c7f3a15"
+  },
+  "brandName": "Akko",
+  "description": "Akko",
+  "isDelete": false,
+  "createdAt": {
+    "$date": "2024-11-15T17:43:48.766Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2Fad7603b9-4c7f-4e72-9bfb-a85a8ee5e3e6-akko.png?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6766e00e318a6bc638d73270"
+  },
+  "brandName": "123",
+  "description": "123",
+  "isDelete": true,
+  "createdAt": {
+    "$date": "2024-12-21T15:34:38.111Z"
+  },
+  "image": "https://firebasestorage.googleapis.com/v0/b/shopcompus.appspot.com/o/cv%2F8832e319-84b4-4456-be2a-64233fa5b8fe-64901278_2276502095949622_8364176967594934272_n.jpg?alt=media",
+  "__v": 0
+}]

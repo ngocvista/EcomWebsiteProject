@@ -1,0 +1,156 @@
+[{
+  "_id": {
+    "$oid": "6737adb917a4755551f0656b"
+  },
+  "username": "tduongw",
+  "password": "$2b$10$OHqgmYZk16uE2hGix5MTp.NbXKZX0hci3lrLEeox.wfNm559G8Q5C",
+  "email": "baban@gmail.com",
+  "phoneNumber": "089618163123",
+  "fullName": "test123",
+  "role": "CUSTOMER",
+  "address": "abcd",
+  "isDelete": true,
+  "active": true,
+  "__v": 0,
+  "avatar": "https://firebasestorage.googleapis.com/v0/b/shopcompus.appspot.com/o/cv%2F6d6e2b4b-cda8-4115-a9a1-998567e43b27-64901278_2276502095949622_8364176967594934272_n.jpg?alt=media"
+},
+{
+  "_id": {
+    "$oid": "675baa71ea4a42a0bd18b730"
+  },
+  "username": "banhang123",
+  "password": "$2b$10$QCB0eK7AdsIBnuZ0hJPPFOH4xrkP3PKlSFOFs0qpawcX1Eab9wj4a",
+  "email": "banhang@gmail.com",
+  "phoneNumber": "123123",
+  "fullName": "123123",
+  "role": "STAFF",
+  "address": "123123123",
+  "isDelete": true,
+  "active": true,
+  "__v": 0,
+  "avatar": "https://firebasestorage.googleapis.com/v0/b/shopcompus.appspot.com/o/cv%2F671b1910-20f4-44c4-a608-30ed3c5a4cb0-64901278_2276502095949622_8364176967594934272_n.jpg?alt=media"
+},
+{
+  "_id": {
+    "$oid": "675d2e8284498755420fb335"
+  },
+  "username": "minhhieu123",
+  "password": "$2b$10$AhtKfK2OgvryfQ.4AcIA0e3PbJYJpuO/J3n2kkKIEOHYFJKI9.Mou",
+  "email": "test@gmail.com",
+  "phoneNumber": "123123",
+  "fullName": "test999",
+  "role": "ADMIN",
+  "address": "abcd",
+  "isDelete": true,
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673271c70564dd251e04ac02"
+  },
+  "username": "admin123",
+  "password": "$2b$10$6XHzOqDMVN93yaxA0XlP/uy84ri1VGlhE5dTYeJ9CXpBx31gNfmsK",
+  "email": "bebu9x98@gmail.com",
+  "phoneNumber": "0835778789",
+  "fullName": "Ngọc Vũ",
+  "role": "ADMIN",
+  "address": "Hà Nội",
+  "isDelete": true,
+  "active": true,
+  "__v": 0,
+  "avatar": "https://firebasestorage.googleapis.com/v0/b/shop-a080e.appspot.com/o/cv%2Fd9113cba-806d-4201-9948-50bd476024c1-anh-che-cho-hai-huoc-cho-dien-thoai-4.jpg?alt=media"
+},
+{
+  "_id": {
+    "$oid": "675baae64ab0d13cbc387517"
+  },
+  "username": "banhang2@gmail.com",
+  "password": "$2b$10$U4rrF037QVWI1eAGKfkgHuFj2KDoSHRzqnYLerCgKy2YjoQm9j2Se",
+  "email": "123123@123.com",
+  "phoneNumber": "123123123",
+  "fullName": "Người Bán Hàng 2",
+  "role": "SELLER",
+  "address": "123123123123",
+  "isDelete": true,
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675bc25d201692ec71a510cf"
+  },
+  "username": "hovinh1003",
+  "password": "$2b$10$lUSH8uOO2zrozJjUXf3uv.73Jv3JKdL7DO.5eEOcF8Iz3WrpOL56G",
+  "email": "nguoiban3@gmail.com",
+  "phoneNumber": "0967626483",
+  "fullName": "Người Bán 3",
+  "role": "SELLER",
+  "address": "HCM",
+  "isDelete": true,
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67668a547568c98cad0956e9"
+  },
+  "username": "tester",
+  "password": "$2b$10$ME81AQp6l86PwobeEiQdPe0X9f.orpN/8lzytvzL2.FCjzN/5da7K",
+  "email": "tester@gmail.com",
+  "phoneNumber": "01234567",
+  "fullName": "Ngọc Vũ Test",
+  "role": "SELLER",
+  "address": "Số 8 Tổ 4 Lạc Long Quân",
+  "isDelete": true,
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6766dfc1318a6bc638d7326a"
+  },
+  "username": "admin",
+  "password": "$2b$10$nNijM8JYMNtrd8WDV.rKzeD6ryjs.XkkyeaqwnXnIYYcyoVFYM29a",
+  "email": "admin@gmail.com",
+  "phoneNumber": "123456",
+  "fullName": "Admin",
+  "role": "ADMIN",
+  "address": "123456",
+  "isDelete": false,
+  "active": true,
+  "avatar": "https://firebasestorage.googleapis.com/v0/b/shopcompus.appspot.com/o/cv%2F0ec75ccf-eb72-4840-9b01-b77c6c9b6186-64901278_2276502095949622_8364176967594934272_n.jpg?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6766e54fb9649e0753cb0733"
+  },
+  "username": "test1",
+  "password": "$2b$10$RYRmh78Rpt6rCeKqHnrfdeCz8/v2FbEHJGHZnNnAcb3SE.g3/JPp2",
+  "email": "test1@gmail.com",
+  "phoneNumber": "123456",
+  "fullName": "Test Bán Hàng",
+  "role": "STAFF",
+  "address": "123456",
+  "isDelete": false,
+  "active": true,
+  "avatar": "https://firebasestorage.googleapis.com/v0/b/shopcompus.appspot.com/o/cv%2F0f7c0e6c-b367-410f-bf19-ba861c5dee55-z5382252882687_f6ce996c377f0db2e5cfcd003ce60755.jpg?alt=media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6766e57cb9649e0753cb0737"
+  },
+  "username": "test2",
+  "password": "$2b$10$SHS19uvUlEAxoYgfDkbe4OC5QfBYKlKTih8leofW2mwweNSXaW6La",
+  "email": "test2@gmail.com",
+  "phoneNumber": "123",
+  "fullName": "Test Người Dùng",
+  "role": "CUSTOMER",
+  "address": "123",
+  "isDelete": false,
+  "active": true,
+  "avatar": "https://firebasestorage.googleapis.com/v0/b/shopcompus.appspot.com/o/cv%2F1cecb078-5110-4787-b6ea-ee6454a03e78-z5382252894969_1ca556ebafc1ac05017dabe54c96c8e2.jpg?alt=media",
+  "__v": 0
+}]

@@ -173,7 +173,7 @@ export default function UserManagement() {
           </Button>
           <Popconfirm
             title="Bạn có chắc muốn xóa người dùng này?"
-            onConfirm={() => confirmDeleteUser(record.userId)}
+            onConfirm={() => confirmDeleteUser(record._id)}
             okText="Có"
             cancelText="Không"
           >

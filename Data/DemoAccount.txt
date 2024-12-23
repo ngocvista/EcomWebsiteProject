@@ -1,0 +1,27 @@
+***tài khoản admin
+admin
+123456
+
+***tài khoản nhân viên
+test1
+123456
+
+***tài khoản khách
+test2
+123456
+
+***tài khoản demo thanh toán vnpay
+Ngân hàng: NCB
+Số thẻ: 9704198526191432198
+Tên chủ thẻ:NGUYEN VAN A
+Ngày phát hành:07/15
+Mật khẩu OTP:123456
+
+***tài khoản demo thanh toán paypal
+sb-01koe25298887@personal.example.com
+conchotrung
+
+***có thể bổ sung
+thêm bộ ckeditor giúp đa dạng nội dung trong phần mô tả
+thêm tính năng gửi tin nhắn trực tiếp với khách hàng
+

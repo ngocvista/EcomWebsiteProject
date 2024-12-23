@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "675edd141fb196b4904e44f8"
+  },
+  "code": "ORD75849919",
+  "date": {
+    "$date": "2024-12-15T13:43:48.000Z"
+  },
+  "note": "Không có",
+  "paymentMethod": "VNPay",
+  "totalPrice": 5532000,
+  "discount": 0,
+  "user": {
+    "$oid": "673271c70564dd251e04ac02"
+  },
+  "addressBook": {
+    "$oid": "675edcec1fb196b4904e44c5"
+  },
+  "status": "Đã giao hàng",
+  "orderDetails": [
+    {
+      "$oid": "675edd151fb196b4904e44ff"
+    },
+    {
+      "$oid": "675edd151fb196b4904e4503"
+    },
+    {
+      "$oid": "675edd151fb196b4904e4507"
+    }
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "67668ff37568c98cad0957c8"
+  },
+  "code": "ORD42938528",
+  "date": {
+    "$date": "2024-12-21T09:52:51.000Z"
+  },
+  "note": "Không có",
+  "paymentMethod": "VNPay",
+  "totalPrice": 679660,
+  "discount": 50,
+  "user": {
+    "$oid": "67668a547568c98cad0956e9"
+  },
+  "addressBook": {
+    "$oid": "67668eab7568c98cad095786"
+  },
+  "status": "Đã giao hàng",
+  "orderDetails": [
+    {
+      "$oid": "67668ff47568c98cad0957cf"
+    }
+  ],
+  "__v": 1
+}]
